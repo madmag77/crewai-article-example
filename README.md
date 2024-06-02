@@ -1,6 +1,9 @@
 ## Example of using CrewAI agents with open source LLM
 
+[Article on Mediumh](https://artem-goncharov.medium.com/how-to-use-open-source-llms-to-power-a-reliable-team-of-ai-agents-c1f7d70a97c7 with full explanation how it works and how to make it run. 
+
 [CrewAI](https://www.crewai.io/)
+
 [CrewAI Github](https://github.com/joaomdmoura/crewAI)
 
 Install LLM server, preferrably [LM Studio](https://lmstudio.ai)
@@ -13,7 +16,7 @@ git clone git@github.com:madmag77/crewai-article-example.git
 cd crewai-article-example
 ````
 
-** Note: I use my own fork of CrewAI where I've done some changes that allow open source LLMs work more stable. I hope my PRs to main repo will be merged and then I'll change the dependency and readme files. **
+**Note: I use my own fork of CrewAI where I've done some changes that allow open source LLMs work more stable. I hope my PRs to main repo will be merged and then I'll change the dependency and readme files.**
 
 Create `.env` file
 ```
