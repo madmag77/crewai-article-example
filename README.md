@@ -1,6 +1,6 @@
 ## Example of using CrewAI agents with open source LLM
 
-[Article](https://artem-goncharov.medium.com/how-to-use-open-source-llms-to-power-a-reliable-team-of-ai-agents-c1f7d70a97c7 with full explanation how it works and how to make it run. 
+[Article on Medium](https://artem-goncharov.medium.com/how-to-use-open-source-llms-to-power-a-reliable-team-of-ai-agents-c1f7d70a97c7) with full explanation how it works and how to make it run. 
 
 [CrewAI](https://www.crewai.io/)
 
